@@ -1,0 +1,10 @@
+.banner-description {
+    color: #444343;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    padding-bottom: 50px;  
+    /* padding: 40px; */
+    /* width: 30%; */
+    /* margin-left: 20px; */   
+   }
