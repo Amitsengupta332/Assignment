@@ -44,6 +44,7 @@
     font-size: 20px;
     padding: 20px 25px;
 }
+
 /* Main section */
 /* main{
     max-width: 1072px;
@@ -78,14 +79,34 @@
     font-weight: 400;
     font-size: 16px;
 }
-.person-img{
+
+.person-img {
     padding-right: 87px;
     padding-left: 100px;
     padding-top: 130px;
 }
-.failure-sub-container{
+
+.failure-sub-container {
     /* padding-left: 322px; */
     padding-top: 369px;
 }
 
- 
+/* Plans */
+.my-plans {
+    margin-top: 130px;
+}
+
+.plan-containers {
+    display: flex;
+    gap: 86px;
+    justify-content: center;
+}
+
+.plans-title {
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+/* Contact styles */
