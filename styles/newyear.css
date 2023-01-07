@@ -145,3 +145,78 @@
     text-align: center;
     padding: 20px 30px;
 }
+
+/* Footer styles */
+.about-us {
+    display: flex;
+    gap: 331px;
+    background: #151414;
+    color: #F8F8F8;
+    padding: 130px 200px;
+    height: 500px;
+}
+
+.about-us a {
+    text-decoration: none;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+}
+
+.about-title {
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 16px;
+}
+
+.about-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-bottom: 24px;
+}
+
+.email {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 16px;
+}
+
+.phone {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 32px;
+}
+
+.subscribe {
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.about-us input[type="email"] {
+    width: 100%;
+    margin-bottom: 24px;
+    border: 0;
+    padding: 18px 30px;
+    text-align: left;
+    padding-bottom: 15px;
+}
+
+/* .btn-subscribed {
+    background: #FFFFFF;
+    border-radius: 8px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+} */
+.btn-subscribe {
+    background: #FFFFFF;
+    border-radius: 8px;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding: 20px 35px;
+
+}
